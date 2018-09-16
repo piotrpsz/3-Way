@@ -8,7 +8,7 @@ The algorithm is unpatented.
 
 # Example: How to test
 The test file called 'threeway_test.go' is in repository.<br>
-For test run command: go test -v <br>
+<b>For test run command: go test -v</b><br>
 Test vectors are from implementation of 3-Way in book "Applied Cryptography" - author Bruce Schneier.
 
 ```Go
