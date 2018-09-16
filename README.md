@@ -7,8 +7,9 @@ Algorithm works in n rounds. Daemen recommends 11.<br>
 The algorithm is unpatented.
 
 # Example: How to test
-The test file called 'threeway_test.go' is in repository.
-For test run command: go test -v
+The test file called 'threeway_test.go' is in repository.<br>
+For test run command: go test -v <br>
+Test vectors are from implementation of 3-Way in book "Applied Cryptography" - author Bruce Schneier.
 
 ```Go
 // for test run command: go test -v
